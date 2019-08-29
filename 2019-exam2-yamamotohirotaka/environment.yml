@@ -1,0 +1,6 @@
+name: exam-2.function
+channels:
+- defaults
+dependencies:
+- python=3.6
+- jupyter==1.0

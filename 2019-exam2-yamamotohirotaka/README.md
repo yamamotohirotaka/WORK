@@ -1,8 +1,8 @@
 # 問題2
 
-## 学籍番号: 1500000
-## 名前: 電通太郎
-## e-mail: hoge@uec.ac.jp
+## 学籍番号: A0033040
+## 名前: 山本広高
+## e-mail: hirotaka.yamamoto@thincess.com
 
 1. git clone 後，適宜ブランチを設定する(例えば WorkInProg のように)
 
